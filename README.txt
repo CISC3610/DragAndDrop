@@ -1,0 +1,1 @@
+This project does not run on chrome but works on Mozzila Firefox.
